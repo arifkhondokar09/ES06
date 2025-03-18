@@ -47,4 +47,4 @@ console.log(Math.min(33,58,46,8756,32,2443,324));
 const mobileBrand= ["nokia", "pixel","iphone", "samsung"];
 console.log(...mobileBrand)
 const newMobileBrand= ["oneplus",...mobileBrand];
-console.log(newMobileBrand)
+console.log(newMobileBrand) 

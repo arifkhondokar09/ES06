@@ -16,4 +16,4 @@ console.log(released);;
 const person= ["hero alom", "pori moni", "jayed khan"];
 
 const [ nayok, sonaMoni, digbajiExpert]= person;
-console.log(digbajiExpert)
+console.log(digbajiExpert) 
